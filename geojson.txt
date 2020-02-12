@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [28.8638, 47.0105], 
+          [28.7799, 46.9463],
+          [28.7341458, 47.0228428]
+        ]
+      },
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "city",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [27.8313388, 47.7670399]
+        ]
+      },
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-symbol": "city",
+        "marker-size": "small"
+      }
+    }
+  ]
+}
